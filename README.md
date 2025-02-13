@@ -9,7 +9,7 @@ This is a simple Java program that allows users to register students by entering
 - Displays a list of registered students with their details.
 - Uses an `ArrayList` to store student data dynamically.
 
-##📝 Example Input/Output
+## 📝 Example Input/Output
 
 **Input:**
 ```
