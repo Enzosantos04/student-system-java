@@ -2,7 +2,7 @@
 
 This is a simple Java program that allows users to register students by entering their names, emails, and grades. The program then calculates and displays the students' average grades.
 
-## 🚀  Features
+# 🚀  Features
 
 - Register students with their name, email, and two grades.
 - Automatically calculates the average grade for each student.
