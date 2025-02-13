@@ -34,7 +34,7 @@ Grades Average: 87.5
 ---------------
 ```
 
-## Code Structure
+## 🏗 Code Structure
 
 - `Main.java`: Handles user input, creates `Students` objects, and displays student details.
 - `Students.java`: Defines the `Students` class with attributes and methods to store and retrieve student data.
